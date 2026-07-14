@@ -1,0 +1,8 @@
+{
+  "versionCode": 12,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.1.0/Iotv-FireTV-1.1.0.apk",
+  "sha256": "14b84be2ab4e76875f62a45c73e664e3945b312fdb88cf3633f42afe54206fcf",
+  "notes": "Aggiornamenti automatici, download verificato e installazione guidata direttamente dalla Fire TV.",
+  "required": false
+}
