@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.1.0/Iotv-FireTV-1.1.0.apk",
-  "sha256": "14b84be2ab4e76875f62a45c73e664e3945b312fdb88cf3633f42afe54206fcf",
-  "notes": "Aggiornamenti automatici, download verificato e installazione guidata direttamente dalla Fire TV.",
+  "versionCode": 13,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.2.0/Iotv-FireTV-1.2.0.apk",
+  "sha256": "a796863d0a1e0246ba0359493c1c9df9e8c5f7468d39e40de9b9ec5bc6c3c0e5",
+  "notes": "Nuovi hub piattaforma con Film, Serie TV, raccolte curate, filtri D-pad e griglia completa. Navigazione e catalogazione migliorate.",
   "required": false
 }
