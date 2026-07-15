@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.4.0/app-release.apk",
-  "sha256": "e559122bc10cdaa554429c9857448e9452bb59cea9e5dacc4a55432fc342fea0",
-  "notes": "UI più nativa e leggibile, cataloghi piattaforma con nuove uscite, consigli distinti, Film, Serie TV e generi; fallback utile anche senza voti del provider.",
+  "versionCode": 16,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.5.0/app-release.apk",
+  "sha256": "c6765d4bd0f327dbec4b2c6387168e532e893cd8007d647fe60d772a4151eada",
+  "notes": "Nuova icona e banner; telecomando e barra laterale più affidabili; Indice arricchito; trailer nativi; caricamenti, errori, ritorno e animazioni più fluidi.",
   "required": false
 }
