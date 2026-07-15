@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.2.0/Iotv-FireTV-1.2.0.apk",
-  "sha256": "a796863d0a1e0246ba0359493c1c9df9e8c5f7468d39e40de9b9ec5bc6c3c0e5",
-  "notes": "Nuovi hub piattaforma con Film, Serie TV, raccolte curate, filtri D-pad e griglia completa. Navigazione e catalogazione migliorate.",
+  "versionCode": 14,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.3.0/Iotv-FireTV-1.3.0.apk",
+  "sha256": "21833cce9c87930c0bcd00bb6bb2a06f0d7b957caf72048f6ea05dcf0d462c7f",
+  "notes": "Nuove uscite, suggerimenti basati sui tuoi gusti, contenuti più apprezzati, Film/Serie TV e generi o raccolte negli hub piattaforma.",
   "required": false
 }
