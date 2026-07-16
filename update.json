@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.5.0/app-release.apk",
-  "sha256": "c6765d4bd0f327dbec4b2c6387168e532e893cd8007d647fe60d772a4151eada",
-  "notes": "Nuova icona e banner; telecomando e barra laterale più affidabili; Indice arricchito; trailer nativi; caricamenti, errori, ritorno e animazioni più fluidi.",
+  "versionCode": 17,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.6.0/app-release.apk",
+  "sha256": "2dce92f8b07e770c1b9b17565fb6574d5b40f172a934df69a424c530a59b421d",
+  "notes": "Player Fire TV rifinito: timeline e salto 10 secondi col telecomando, audio e sottotitoli, retry, puntata successiva e avanzamento automatico. Pagina serie riprogettata con stagioni reali, episodi ordinati, durata, avanzamento e focus D-pad stabile.",
   "required": false
 }
