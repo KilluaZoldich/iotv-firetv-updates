@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.0/app-release.apk",
-  "sha256": "b81ce7c4aeecbdaaf369a856f2091f480245264be47cffd91b399756e0a343ed",
-  "notes": "Avvio Fire TV molto più rapido: catalogo locale compresso mostrato subito, aggiornamento IPTV in background, caricamento progressivo di Film e Serie, Live non bloccante e controllo aggiornamenti posticipato. Nuova schermata strutturale per la prima sincronizzazione.",
+  "versionCode": 20,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.1/app-release.apk",
+  "sha256": "2e7034681b8ad62f1fb8c615a057ceab3da695f9515afbfd308eaeb3ae29ff59",
+  "notes": "Catalogo completo: rimosso il taglio dei primi 6.000 elementi per Film, Serie e Live. Le raccolte Disney+, Netflix, Prime Video e le altre piattaforme includono ora anche i titoli esplicitamente prefissati che il provider colloca in categorie generiche. Ricerca e griglie lavorano sull’intero catalogo senza limitare l’importazione.",
   "required": false
 }
