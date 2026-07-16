@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.7.1",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.1/app-release.apk",
-  "sha256": "2e7034681b8ad62f1fb8c615a057ceab3da695f9515afbfd308eaeb3ae29ff59",
-  "notes": "Catalogo completo: rimosso il taglio dei primi 6.000 elementi per Film, Serie e Live. Le raccolte Disney+, Netflix, Prime Video e le altre piattaforme includono ora anche i titoli esplicitamente prefissati che il provider colloca in categorie generiche. Ricerca e griglie lavorano sull’intero catalogo senza limitare l’importazione.",
+  "versionCode": 21,
+  "versionName": "1.7.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.2/app-release.apk",
+  "sha256": "38f01999acaeed26ec570b9f4ae3a61f719857d4a97fe7906bf7ce7893edda56",
+  "notes": "Nuovo browser per categorie nelle piattaforme: Film e Serie TV mantengono raccolte separate, la prima vista apre una categoria reale e Tutti i titoli resta una scelta esplicita. Rimosso il limite di otto categorie; le raccolte restano visibili anche dopo aver filtrato Serie TV o Film. Navigazione telecomando e conteggi aggiornati.",
   "required": false
 }
