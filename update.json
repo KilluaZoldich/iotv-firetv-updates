@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.7.3",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.3/app-release.apk",
-  "sha256": "d40e0b6ac75f453530f24921faccd5461b70a303b81bad1b62f447a0613f9a64",
-  "notes": "Conteggi categorie finalmente reali: ogni piattaforma mostra quanti titoli unici sono davvero classificati, senza sommare i doppioni tra raccolte. I contenuti senza categoria restano accessibili in Altri titoli; Film, Serie TV e Tutti i titoli mantengono viste separate.",
+  "versionCode": 23,
+  "versionName": "1.7.4",
+  "apkUrl": "https://tyniptv.fyi/iotv-firetv/app-release.apk",
+  "sha256": "8a68d904cc7a29883923a1aa8f1dcb89dbfb4d1413b98b0dc215e9b6354f9015",
+  "notes": "Aggiunti di recente è ora presente nella Home, ordinato dalla data reale del provider e senza titoli privi di timestamp. Include inoltre tutti i miglioramenti di navigazione, catalogo e fluidità della versione precedente.",
   "required": false
 }
