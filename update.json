@@ -1,7 +1,7 @@
 {
   "versionCode": 23,
   "versionName": "1.7.4",
-  "apkUrl": "https://tyniptv.fyi/iotv-firetv/app-release.apk",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.4/app-release.apk",
   "sha256": "8a68d904cc7a29883923a1aa8f1dcb89dbfb4d1413b98b0dc215e9b6354f9015",
   "notes": "Aggiunti di recente è ora presente nella Home, ordinato dalla data reale del provider e senza titoli privi di timestamp. Include inoltre tutti i miglioramenti di navigazione, catalogo e fluidità della versione precedente.",
   "required": false
