@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.7.4",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.4/app-release.apk",
-  "sha256": "8a68d904cc7a29883923a1aa8f1dcb89dbfb4d1413b98b0dc215e9b6354f9015",
-  "notes": "Aggiunti di recente è ora presente nella Home, ordinato dalla data reale del provider e senza titoli privi di timestamp. Include inoltre tutti i miglioramenti di navigazione, catalogo e fluidità della versione precedente.",
+  "versionCode": 24,
+  "versionName": "1.7.5",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.5/app-release.apk",
+  "sha256": "e3adc0b6a6c89e2ec18de1cbc1c12d7b7b8612e740d0761c049ea24e34751e45",
+  "notes": "Interfaccia Fire TV adattiva e più compatta, con rail, hero, card e spaziature calibrati sullo schermo. Corretto anche il banner 16:9 del launcher e rifinite le etichette della navigazione laterale.",
   "required": false
 }
