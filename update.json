@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.7.6",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.6/app-release.apk",
-  "sha256": "5e7a755faa19db77426912e726aa354126e4ea73418d81af8e28a618713a3fd4",
-  "notes": "Avvio e refresh del catalogo più rapidi con cache-preview e parsing fuori dal thread grafico. Aggiornamenti rilevati subito, download riprendibile e APK ridotto da 29 MB a 4,9 MB. Il nuovo tile launcher forza Fire TV a ricaricare icona e banner.",
+  "versionCode": 26,
+  "versionName": "1.7.7",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.7/app-release.apk",
+  "sha256": "c4fb66d8ef40ff9f8d0e385a353f684c982e21ef38e7735206a470422ff3ef50",
+  "notes": "Hotfix catalogo: ripristina Film, Serie TV e Live dopo la regressione 1.7.6. Le cache vuote vengono ignorate, una risposta vuota non può più cancellare titoli validi e il percorso Xtream è stato verificato nella build release.",
   "required": false
 }
