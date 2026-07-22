@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.7.8",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.8/app-release.apk",
-  "sha256": "ae3288cad46f4aa9ac3aae27f470c283cbf3a1b2edb254979c285aa007df0fbb",
-  "notes": "Corregge le schede delle serie molto lunghe, come SpongeBob, quando il server restituisce stagioni e puntate in formati JSON Xtream alternativi. Gestisce liste piatte, stagioni annidate e metadati vuoti senza perdere le puntate.",
+  "versionCode": 28,
+  "versionName": "1.7.9",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.9/app-release.apk",
+  "sha256": "5e9c8608421f7dfe8186e7dccc0effa962382decb56ee57b68a29694eb09734e",
+  "notes": "Nuova identità Iotv con monogramma io in vetro, icona centrata e banner Fire TV 16:9 dedicato. Il nuovo alias del launcher forza Fire OS ad abbandonare l'icona precedente rimasta in cache.",
   "required": false
 }
