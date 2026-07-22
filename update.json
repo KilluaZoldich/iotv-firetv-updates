@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.7.7",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.7/app-release.apk",
-  "sha256": "c4fb66d8ef40ff9f8d0e385a353f684c982e21ef38e7735206a470422ff3ef50",
-  "notes": "Hotfix catalogo: ripristina Film, Serie TV e Live dopo la regressione 1.7.6. Le cache vuote vengono ignorate, una risposta vuota non può più cancellare titoli validi e il percorso Xtream è stato verificato nella build release.",
+  "versionCode": 27,
+  "versionName": "1.7.8",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.7.8/app-release.apk",
+  "sha256": "ae3288cad46f4aa9ac3aae27f470c283cbf3a1b2edb254979c285aa007df0fbb",
+  "notes": "Corregge le schede delle serie molto lunghe, come SpongeBob, quando il server restituisce stagioni e puntate in formati JSON Xtream alternativi. Gestisce liste piatte, stagioni annidate e metadati vuoti senza perdere le puntate.",
   "required": false
 }
