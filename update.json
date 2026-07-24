@@ -1,7 +1,7 @@
 {
   "versionCode": 29,
   "versionName": "1.8.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.8.0/app-release.apk",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.8.0/Iotv-FireTV-1.8.0.apk",
   "sha256": "a30ee417d3aea791b451c2b011b0e09908a9be929df80f6c04d74f2f3c57a02e",
   "notes": "Serie complete nel player: puntata precedente e successiva restano disponibili lungo tutta la stagione. Gli hub Netflix, Disney+, Prime Video e degli altri servizi separano Film e Serie TV e usano le categorie reali indicizzate dal provider.",
   "required": false
