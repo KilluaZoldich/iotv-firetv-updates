@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.1.2/Iotv-Android-0.1.2.apk",
+  "sha256": "2f77bf2b8769dbb9de47a1a7cf7fa17dbb4ceda29d933ac14e4b2157761ed2ef",
+  "notes": "Aggiornamenti automatici in-app, download ripristinabile e verifica completa di firma e integrità.",
+  "required": false
+}
