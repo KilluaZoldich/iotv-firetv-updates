@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.2.0/Iotv-Android-0.2.0.apk",
-  "sha256": "f9815b3504ba5917e3b3a4bcb8a87a513493a41e9fa97aa06b5167cf7c6e92a6",
-  "notes": "Nuove Impostazioni complete e player Android ricostruito: landscape immersivo, timeline trascinabile, doppio tap, velocità, audio e sottotitoli, formato video, Picture-in-Picture e prossima puntata con conto alla rovescia.",
+  "versionCode": 6,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.2.1/Iotv-Android-0.2.1.apk",
+  "sha256": "9f9803339e5fbb9b502500856f236ca55c758bd00bbd9c7f46eef553a45193f3",
+  "notes": "Player e Impostazioni della 0.2.0, con controllo aggiornamenti corretto: manifest senza cache e nuovo check quando l’app torna in primo piano.",
   "required": false
 }
