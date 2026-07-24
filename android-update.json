@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.2.1/Iotv-Android-0.2.1.apk",
-  "sha256": "9f9803339e5fbb9b502500856f236ca55c758bd00bbd9c7f46eef553a45193f3",
-  "notes": "Player e Impostazioni della 0.2.0, con controllo aggiornamenti corretto: manifest senza cache e nuovo check quando l’app torna in primo piano.",
+  "versionCode": 7,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.2.2/Iotv-Android-0.2.2.apk",
+  "sha256": "1b705bf8e19e9504573451214b028ba466042400bc8ad6036449737adfd2bb8a",
+  "notes": "Player serie con puntata precedente e successiva lungo tutta la stagione. Hub dei servizi riprogettati con Film, Serie TV, nuove uscite, suggerimenti e categorie reali del provider.",
   "required": false
 }
