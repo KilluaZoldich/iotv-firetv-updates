@@ -2,7 +2,7 @@
   "versionCode": 4,
   "versionName": "0.1.3",
   "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.1.3/Iotv-Android-0.1.3.apk",
-  "sha256": "bed4a305212e1216f812d163ba6644d3ae9b15be56871982e481a2208627ea6d",
+  "sha256": "98e6ec43868dacd4f6e7b340cf9a160cf5dc8373ff69e6c5d3f224d18a5c5915",
   "notes": "Contrasto corretto in tutta l’app e nuova barra inferiore allineata, leggibile e adattata alla safe area Android.",
   "required": false
 }
