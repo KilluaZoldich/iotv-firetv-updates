@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.8.0/Iotv-FireTV-1.8.0.apk",
-  "sha256": "a30ee417d3aea791b451c2b011b0e09908a9be929df80f6c04d74f2f3c57a02e",
-  "notes": "Serie complete nel player: puntata precedente e successiva restano disponibili lungo tutta la stagione. Gli hub Netflix, Disney+, Prime Video e degli altri servizi separano Film e Serie TV e usano le categorie reali indicizzate dal provider.",
+  "versionCode": 30,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.8.1/Iotv-FireTV-1.8.1.apk",
+  "sha256": "b0fd3fe0eacbf33827e4adf801207a21c0b918e916d8de6be031c2004a7f030d",
+  "notes": "Cataloghi grandi finalmente stabili: download e cache lavorano in streaming, il salvataggio completo è atomico e non ricade più all'anteprima da 480 titoli. Ridotti i picchi di memoria durante aggiornamento, Home e categorie; aggiunta diagnostica mirata per Fire TV.",
   "required": false
 }
