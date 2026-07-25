@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.2.2/Iotv-Android-0.2.2.apk",
-  "sha256": "1b705bf8e19e9504573451214b028ba466042400bc8ad6036449737adfd2bb8a",
-  "notes": "Player serie con puntata precedente e successiva lungo tutta la stagione. Hub dei servizi riprogettati con Film, Serie TV, nuove uscite, suggerimenti e categorie reali del provider.",
+  "versionCode": 8,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.3.0/Iotv-Android-0.3.0.apk",
+  "sha256": "a95547c011a691c65bd64fc811b657149c6f919905ad5eaffcef35f50d73fc61",
+  "notes": "Redesign completo Material 3: nuova navigazione, home cinematografica, catalogo e piattaforme più leggibili, ricerca, Live, Libreria, scheda contenuto, impostazioni e player immersivo. Inclusa la nuova icona adattiva Android.",
   "required": false
 }
