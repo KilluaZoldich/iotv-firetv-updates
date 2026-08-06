@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.9.1",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.9.1/Iotv-FireTV-1.9.1.apk",
-  "sha256": "cdf721f4cccc5de712e319bd01bd6334cfb3f200df63f776c2fe6f2b67053b64",
-  "notes": "Navigazione Fire TV riprogettata per la fluidità: il focus non ridisegna più intere schermate, le transizioni rispondono immediatamente al telecomando, immagini e memoria sono ottimizzate, cataloghi piattaforma e stato download non bloccano più il thread grafico. Inclusa diagnostica pressione→focus per individuare regressioni reali sul dispositivo.",
+  "versionCode": 33,
+  "versionName": "1.9.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.9.2/Iotv-FireTV-1.9.2.apk",
+  "sha256": "dd1b1493f5114352705223dbf013eb5cc8b6388bfe682f4f344e08c9d2286c6e",
+  "notes": "Nuovo banner Fire TV full-bleed: il simbolo Iotv riempie correttamente la tile come le app native, senza icona quadrata interna o bande laterali. Nuovo componente launcher per invalidare la cache grafica di Fire OS. Include tutte le ottimizzazioni di fluidità della 1.9.1.",
   "required": false
 }
