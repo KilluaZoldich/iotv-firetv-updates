@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.8.1/Iotv-FireTV-1.8.1.apk",
-  "sha256": "b0fd3fe0eacbf33827e4adf801207a21c0b918e916d8de6be031c2004a7f030d",
-  "notes": "Cataloghi grandi finalmente stabili: download e cache lavorano in streaming, il salvataggio completo è atomico e non ricade più all'anteprima da 480 titoli. Ridotti i picchi di memoria durante aggiornamento, Home e categorie; aggiunta diagnostica mirata per Fire TV.",
+  "versionCode": 31,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.9.0/Iotv-FireTV-1.9.0.apk",
+  "sha256": "4128111b442959b8bcc7b66570f2547d76e5755c85051aa1e960def699f43566",
+  "notes": "Download offline finalmente durevoli: servizio persistente, salvataggio progressivo senza preallocazione, ripresa dopo riavvio o aggiornamento, verifica dei byte-range e fallback anticorruzione. Libreria TV aggiornata con trasferimenti attivi e contenuti offline.",
   "required": false
 }
