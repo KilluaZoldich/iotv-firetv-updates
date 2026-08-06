@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.9.0/Iotv-FireTV-1.9.0.apk",
-  "sha256": "4128111b442959b8bcc7b66570f2547d76e5755c85051aa1e960def699f43566",
-  "notes": "Download offline finalmente durevoli: servizio persistente, salvataggio progressivo senza preallocazione, ripresa dopo riavvio o aggiornamento, verifica dei byte-range e fallback anticorruzione. Libreria TV aggiornata con trasferimenti attivi e contenuti offline.",
+  "versionCode": 32,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v1.9.1/Iotv-FireTV-1.9.1.apk",
+  "sha256": "cdf721f4cccc5de712e319bd01bd6334cfb3f200df63f776c2fe6f2b67053b64",
+  "notes": "Navigazione Fire TV riprogettata per la fluidità: il focus non ridisegna più intere schermate, le transizioni rispondono immediatamente al telecomando, immagini e memoria sono ottimizzate, cataloghi piattaforma e stato download non bloccano più il thread grafico. Inclusa diagnostica pressione→focus per individuare regressioni reali sul dispositivo.",
   "required": false
 }
