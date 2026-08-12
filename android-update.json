@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.5.0/Iotv-Android-0.5.0.apk",
-  "sha256": "28215fbcb44418dc989c92bb529570a24879e09e446c80b9c72a1e9db7268392",
-  "notes": "Download offline riprogettati: coda persistente, scrittura progressiva senza blocchi, ripresa dopo chiusura o aggiornamento, retry automatici e fallback sicuro quando il provider ignora i byte-range. Nuova gestione da Libreria con stato e riproduzione locale.",
+  "versionCode": 42,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.0/Iotv-Android-0.6.0.apk",
+  "sha256": "c7a2c2fecfb767298a1f4e01f550b79d8796fbd99732ffb8507adb6665dfff0d",
+  "notes": "Nuova esperienza Material 3 Expressive con navigazione, catalogo, impostazioni e player riprogettati. Cataloghi per piattaforma organizzati in film, serie e categorie reali; pipeline di presentazione più stabile e veloce, controlli episodio precedente/successivo e aggiornamenti Direct verificati tramite firma e SHA-256.",
   "required": false
 }
