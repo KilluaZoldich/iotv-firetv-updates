@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "0.6.7",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.7/Iotv-Android-0.6.7.apk",
-  "sha256": "7ca38c64ba36fcb76f5cb001adac21be66682dc330c155ad3bde65cc51fd1d70",
-  "notes": "Correzione ANR: il crawler TMDB non ricostruisce più catalogo, categorie e indice FTS durante l’uso. Un solo indice canonico avanza e persiste in background, senza copie da 70.000 righe, deserializzazioni ripetute o invalidazioni globali della UI.",
+  "versionCode": 50,
+  "versionName": "0.6.8",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.8/Iotv-Android-0.6.8.apk",
+  "sha256": "5806c4eb4ae2c5aba0172742eb343996305dbf976fde073e8bab42c4a9b856db",
+  "notes": "Avvio preview-first, cache recente senza refetch integrale, TMDB prioritario a budget finito e URL di riproduzione creati solo per la coda attiva. Eliminati il caricamento infinito e le copie del catalogo completo nel percorso interattivo.",
   "required": false
 }
