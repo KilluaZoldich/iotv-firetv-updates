@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "0.6.8",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.8/android-direct-release.apk",
-  "sha256": "5806c4eb4ae2c5aba0172742eb343996305dbf976fde073e8bab42c4a9b856db",
-  "notes": "Avvio preview-first, cache recente senza refetch integrale, TMDB prioritario a budget finito e URL di riproduzione creati solo per la coda attiva. Eliminati il caricamento infinito e le copie del catalogo completo nel percorso interattivo.",
+  "versionCode": 51,
+  "versionName": "0.6.9",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.9/android-direct-release.apk",
+  "sha256": "95c123666ed5890ef7c738f313773f94f4edc4f3d0d0de023333d59a26275eb3",
+  "notes": "Categorie Xtream complete e immediate: Animazione, Commedia, Documentari e gli altri generi non dipendono più dalla copertura TMDB. TMDB continua ad aggiungere artwork, descrizioni e generi secondari in background.",
   "required": false
 }
