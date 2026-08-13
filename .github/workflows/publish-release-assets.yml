@@ -1,0 +1,53 @@
+name: Publish signed app releases
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "release-assets/**"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Detect staged release assets
+        id: assets
+        shell: bash
+        run: |
+          if [[ -f release-assets/Iotv-Android-0.6.6.apk && -f release-assets/Iotv-FireTV-2.0.1.apk ]]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish Android 0.6.6
+        if: steps.assets.outputs.ready == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view android-v0.6.6 >/dev/null 2>&1 || \
+            gh release create android-v0.6.6 --title "Iotv Android 0.6.6" --notes "TMDB completo: catalogo integrale, identità canoniche, cursore persistente, backoff e ripresa automatica."
+          gh release upload android-v0.6.6 release-assets/Iotv-Android-0.6.6.apk --clobber
+
+      - name: Publish Fire TV 2.0.1
+        if: steps.assets.outputs.ready == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view v2.0.1 >/dev/null 2>&1 || \
+            gh release create v2.0.1 --title "Iotv Fire TV 2.0.1" --notes "TMDB completo e stabile su grandi cataloghi, con indicizzazione persistente e aggiornamenti UI dilazionati."
+          gh release upload v2.0.1 release-assets/Iotv-FireTV-2.0.1.apk --clobber
+
+      - name: Remove transient repository copies
+        if: steps.assets.outputs.ready == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r release-assets
+          git commit -m "Remove transient release assets"
+          git push

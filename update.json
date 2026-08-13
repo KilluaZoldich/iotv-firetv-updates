@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v2.0.0/Iotv-FireTV-2.0.0.apk",
-  "sha256": "5c1a791873afa36686497476cecb73cdd26dafa4997e52ca639b4c38e9963647",
-  "notes": "Iotv Fire TV 2.0: navigazione D-pad più stabile e persistente, ritorno sicuro senza chiusure accidentali, credenziali cifrate con Android Keystore, cataloghi e categorie preindicizzati fuori dalla UI, stato delle schermate con memoria limitata e numerose ottimizzazioni di fluidità, player e gestione catalogo.",
+  "versionCode": 35,
+  "versionName": "2.0.1",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v2.0.1/Iotv-FireTV-2.0.1.apk",
+  "sha256": "8f8546dc0e3c097dd1aed0a59beec4ee4c76cfce0cffef834261ba1b9e1b325d",
+  "notes": "TMDB completo e stabile su Fire TV: indicizzazione di tutto il catalogo idoneo, varianti canoniche, ID/anno Xtream, ledger SQLite e cursore persistente, aggiornamenti UI dilazionati e ripresa automatica dopo rete assente o limite TMDB.",
   "required": false
 }

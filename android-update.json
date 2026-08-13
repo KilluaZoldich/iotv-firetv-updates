@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.6.5",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.5/Iotv-Android-0.6.5.apk",
-  "sha256": "a9438bb80026fcb9bdcf3ad55424210d4c130c2c99469be6ece3c8331e769b03",
-  "notes": "Catalogo ora usa una sola regia: la bolla passa correttamente tra Live, Film e Serie, apre sempre la sezione scelta e sostituisce il vecchio selettore duplicato nell'intestazione.",
+  "versionCode": 48,
+  "versionName": "0.6.6",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.6/Iotv-Android-0.6.6.apk",
+  "sha256": "bad32c9ed12cd125ef2926023b724d5abba09617010e0c8d77672e5ac886345c",
+  "notes": "TMDB ora indicizza l’intero catalogo idoneo: usa ID e anno Xtream, deduplica le varianti, conserva un cursore persistente, mostra il progresso reale e riprende automaticamente dopo rete assente o rate limit senza ricostruire 70.000 righe a ogni risultato.",
   "required": false
 }
