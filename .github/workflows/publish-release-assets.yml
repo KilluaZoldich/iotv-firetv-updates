@@ -19,29 +19,29 @@ jobs:
         id: assets
         shell: bash
         run: |
-          if [[ -f release-assets/Iotv-Android-0.6.6.apk && -f release-assets/Iotv-FireTV-2.0.1.apk ]]; then
+          if [[ -f release-assets/Iotv-Android-0.6.7.apk && -f release-assets/Iotv-FireTV-2.0.2.apk ]]; then
             echo "ready=true" >> "$GITHUB_OUTPUT"
           else
             echo "ready=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Publish Android 0.6.6
+      - name: Publish Android 0.6.7
         if: steps.assets.outputs.ready == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release view android-v0.6.6 >/dev/null 2>&1 || \
-            gh release create android-v0.6.6 --title "Iotv Android 0.6.6" --notes "TMDB completo: catalogo integrale, identità canoniche, cursore persistente, backoff e ripresa automatica."
-          gh release upload android-v0.6.6 release-assets/Iotv-Android-0.6.6.apk --clobber
+          gh release view android-v0.6.7 >/dev/null 2>&1 || \
+            gh release create android-v0.6.7 --title "Iotv Android 0.6.7" --notes "Correzione ANR: crawler TMDB e rendering sono separati; nessuna ricostruzione periodica del catalogo durante l’uso."
+          gh release upload android-v0.6.7 release-assets/Iotv-Android-0.6.7.apk --clobber
 
-      - name: Publish Fire TV 2.0.1
+      - name: Publish Fire TV 2.0.2
         if: steps.assets.outputs.ready == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release view v2.0.1 >/dev/null 2>&1 || \
-            gh release create v2.0.1 --title "Iotv Fire TV 2.0.1" --notes "TMDB completo e stabile su grandi cataloghi, con indicizzazione persistente e aggiornamenti UI dilazionati."
-          gh release upload v2.0.1 release-assets/Iotv-FireTV-2.0.1.apk --clobber
+          gh release view v2.0.2 >/dev/null 2>&1 || \
+            gh release create v2.0.2 --title "Iotv Fire TV 2.0.2" --notes "Stabilità cataloghi grandi: eliminati i picchi GC e le sostituzioni dello snapshot Compose durante la navigazione."
+          gh release upload v2.0.2 release-assets/Iotv-FireTV-2.0.2.apk --clobber
 
       - name: Remove transient repository copies
         if: steps.assets.outputs.ready == 'true'

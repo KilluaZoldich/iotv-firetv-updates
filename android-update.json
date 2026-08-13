@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "0.6.6",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.6/Iotv-Android-0.6.6.apk",
-  "sha256": "bad32c9ed12cd125ef2926023b724d5abba09617010e0c8d77672e5ac886345c",
-  "notes": "TMDB ora indicizza l’intero catalogo idoneo: usa ID e anno Xtream, deduplica le varianti, conserva un cursore persistente, mostra il progresso reale e riprende automaticamente dopo rete assente o rate limit senza ricostruire 70.000 righe a ogni risultato.",
+  "versionCode": 49,
+  "versionName": "0.6.7",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.7/Iotv-Android-0.6.7.apk",
+  "sha256": "7ca38c64ba36fcb76f5cb001adac21be66682dc330c155ad3bde65cc51fd1d70",
+  "notes": "Correzione ANR: il crawler TMDB non ricostruisce più catalogo, categorie e indice FTS durante l’uso. Un solo indice canonico avanza e persiste in background, senza copie da 70.000 righe, deserializzazioni ripetute o invalidazioni globali della UI.",
   "required": false
 }

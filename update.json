@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v2.0.1/Iotv-FireTV-2.0.1.apk",
-  "sha256": "8f8546dc0e3c097dd1aed0a59beec4ee4c76cfce0cffef834261ba1b9e1b325d",
-  "notes": "TMDB completo e stabile su Fire TV: indicizzazione di tutto il catalogo idoneo, varianti canoniche, ID/anno Xtream, ledger SQLite e cursore persistente, aggiornamenti UI dilazionati e ripresa automatica dopo rete assente o limite TMDB.",
+  "versionCode": 36,
+  "versionName": "2.0.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/v2.0.2/Iotv-FireTV-2.0.2.apk",
+  "sha256": "7228029e946b775ae3013b3bc77f49b598c67a40a5f4551e6005d855781cea4d",
+  "notes": "Stabilità cataloghi grandi: TMDB usa un unico indice persistente e non sostituisce più lo snapshot Compose durante la navigazione. Rimossi i picchi GC periodici responsabili di lag e blocchi su Fire TV.",
   "required": false
 }
