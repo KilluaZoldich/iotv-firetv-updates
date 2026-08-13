@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.0/Iotv-Android-0.6.0.apk",
-  "sha256": "c7a2c2fecfb767298a1f4e01f550b79d8796fbd99732ffb8507adb6665dfff0d",
-  "notes": "Nuova esperienza Material 3 Expressive con navigazione, catalogo, impostazioni e player riprogettati. Cataloghi per piattaforma organizzati in film, serie e categorie reali; pipeline di presentazione più stabile e veloce, controlli episodio precedente/successivo e aggiornamenti Direct verificati tramite firma e SHA-256.",
+  "versionCode": 44,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.2/Iotv-Android-0.6.2.apk",
+  "sha256": "b4a9bb58fab5d0194e9dd22d9cc5b35c10ce1b8bdacb7b1c2a43c32e2c9152ac",
+  "notes": "Impostazioni è ora una destinazione stabile nella barra inferiore Material 3 Expressive. La ricerca globale resta disponibile dal Catalogo per film, serie e live; rimossi i collegamenti duplicati da Home e Libreria. Include anche la cronologia aggiornamenti introdotta nella 0.6.1.",
   "required": false
 }
