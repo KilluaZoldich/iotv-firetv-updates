@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "0.6.3",
-  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.3/Iotv-Android-0.6.3.apk",
-  "sha256": "d9d4b1422f292a2af8f71bb2fd0bbd6ad1f0bb0dbaa5e55a6fd2f64f44a97e1a",
-  "notes": "La barra Material 3 Expressive ha ora cinque destinazioni stabili: Home, Catalogo, Cerca, Libreria e Impostazioni. Live entra nel nuovo hub Catalogo: un tocco apre una bolla compatta con Live, Film e Serie, mantenendo evidenziata la sezione corrente anche su tablet.",
+  "versionCode": 46,
+  "versionName": "0.6.4",
+  "apkUrl": "https://github.com/KilluaZoldich/iotv-firetv-updates/releases/download/android-v0.6.4/Iotv-Android-0.6.4.apk",
+  "sha256": "4e2ba4b177697ac2c00e4038be4d0d939240b06dddbf35ed1a04e802c02834ef",
+  "notes": "Hotfix critica: corretto il crash immediato della build Release causato dall'ottimizzazione R8 della nuova navigazione Catalogo. Live, Film e Serie e lo stato proveniente dalla 0.6.3 restano intatti.",
   "required": false
 }
